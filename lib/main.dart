@@ -19,7 +19,7 @@ class BallPage extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         home: Scaffold(
       appBar: AppBar(
-        title: const Text('Ask me Anything'),
+        title: const Text('Ask your question'),
         backgroundColor: Colors.blue[900],
         centerTitle: true,
       ),
